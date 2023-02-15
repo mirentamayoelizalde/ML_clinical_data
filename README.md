@@ -1,4 +1,4 @@
-# ML_clinical data
+# ML_clinical_data
 This repository includes ML algorithms to classify different types of clinical data, such as cognitive scores or biochemical parameters.
 
 ## Links to the notebooks
